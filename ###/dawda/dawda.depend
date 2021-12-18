@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557944142 source:d:\folder lugas\c++ (latihan)\dawda\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<string.h>
+	<string>
+

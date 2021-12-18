@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1560540143 source:d:\folder lugas\c++ (latihan)\project_alpro-02\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<fstream>
+

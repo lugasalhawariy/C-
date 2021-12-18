@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1560198762 source:d:\folder lugas\c++ (latihan)\lagi\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+	<conio.h>
+	<Stdlib.h>
+

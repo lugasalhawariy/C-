@@ -1,0 +1,20 @@
+
+----------------------------------------------------------------------------
+nama kamu : Lugas
+Jumlah kesalahan kamu : 5
+level kamu : Easy
+
+----------------------------------------------------------------------------
+nama kamu : Lugas
+Jumlah kesalahan kamu : 5
+level kamu : Easy
+
+----------------------------------------------------------------------------
+nama kamu : Lugas
+Jumlah kesalahan kamu : 1
+level kamu : Easy
+
+----------------------------------------------------------------------------
+nama kamu : Lugas
+Jumlah kesalahan kamu : 5
+level kamu : Hard

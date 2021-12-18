@@ -1,0 +1,4 @@
+Lugas	60	2	Mudah
+Kakashi	60	1	Mudah
+Master	0	5	Mudah
+ujung	40	5	Mudah

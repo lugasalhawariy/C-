@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557943342 source:d:\folder lugas\c++ (latihan)\post-test8\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<string.h>
+	<string>
+

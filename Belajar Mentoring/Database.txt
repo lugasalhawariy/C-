@@ -1,0 +1,12 @@
+Nama Pembeli       : Lugas Alhawariy
+Alamat Pembeli     : Tamanan Wetan
+Jumlah yang dibeli : 9
+Merk yang dipilih  : Pazero
+Total bayar Mobil  : 8.1 Milliar 
+
+Nama Pembeli       : Hatake Kakashi
+Alamat Pembeli     : Konoha, bagian utara
+Jumlah yang dibeli : 2
+Merk yang dipilih  : Inova
+Total bayar Mobil  : 800 Juta 
+

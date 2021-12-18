@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558296570 source:d:\folder lugas\c++ (latihan)\searching\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
